@@ -70,6 +70,6 @@ Reference
 - 최선욱 (2019). <브라질, 높은 성장을 보이고 있는 전자 상거래 시장>. 상파울루: KOTRA. [KOTRA 보고서1](https://news.kotra.or.kr/user/globalAllBbs/kotranews/album/781/globalBbsDataAllView.do?dataIdx=178787&column=&search=&searchAreaCd=&searchNationCd=&searchTradeCd=&searchStartDate=&searchEndDate=&searchCategoryIdxs=&searchIndustryCateIdx=&searchItemNam)
 - 최선욱 (2018). <브라질, 경기 회복과 더불어 건설 중장비 수요 증가>. 상파울루: KOTRA. [KOTRA 보고서2](https://news.kotra.or.kr/user/globalBbs/kotranews/782/globalBbsDataView.do?setIdx=243&dataIdx=171562)
 - 최선욱 (2019). <브라질 주방용품(식품 조리 기구) 시장 동향>. 상파울루: KOTRA. [KOTRA 보고서3](https://news.kotra.or.kr/user/globalAllBbs/kotranews/album/2/globalBbsDataAllView.do?dataIdx=177841&searchNationCd=101048)
-
+- 최선욱 (2018). <브라질 생활소비재 산업_미용화장품 산업>. 상파울루: KOTRA. [KOTRA 보고서4](https://news.kotra.or.kr/user/globalBbs/kotranews/784/globalBbsDataView.do?setIdx=403&dataIdx=173141)
 
 
