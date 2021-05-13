@@ -56,7 +56,7 @@
 
 
 ### 3. 카테고리 분석
-<img width="1119" alt="스크린샷 2021-05-13 오후 1 49 22" src="https://user-images.githubusercontent.com/78460413/118079150-9ea4f380-b3f2-11eb-95f1-a27f1cf80e78.png">
+![스크린샷 2021-05-13 오후 1 49 22](https://user-images.githubusercontent.com/78460413/118080110-7d450700-b3f4-11eb-89c4-d7c65332a592.png)
 - 매출은 11월 블랙 프라이데이 행사 이후 급감세를 보이나 전반적으로 상승세를 보임
 - 2018년의 대부분의 카테고리는 정체된 성장과 감소세를 보이나 health beauty, houseweares, telephony 분야 증가세를 보임
 - 2018년 경제 회복에 따는 건설업 성장과 더불어 건설 중장비의 수요 증가세를 보임
